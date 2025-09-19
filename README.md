@@ -45,7 +45,7 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.com/yourusername/startup-success-prediction.git
+git clone https://github.com/yeruvaalekhya/startup-success-rate-prediction-using-machine-learning.git
 cd startup-success-prediction
 
 
